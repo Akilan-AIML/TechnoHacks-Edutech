@@ -1,6 +1,6 @@
 # TechnoHacks-Edutech
 
-## List of Assigned Tasks in ML Internship
+## List of Assigned Tasks in ML Internship (TechnoHacks-Edutech)
 
 1. **Task-1**
     - [Predicting House Prices]()
